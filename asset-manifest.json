@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Delici_restaurant_web_FE/static/css/main.fd371dff.chunk.css",
+    "main.js": "/Delici_restaurant_web_FE/static/js/main.1443d799.chunk.js",
+    "main.js.map": "/Delici_restaurant_web_FE/static/js/main.1443d799.chunk.js.map",
+    "runtime-main.js": "/Delici_restaurant_web_FE/static/js/runtime-main.9c8dbd28.js",
+    "runtime-main.js.map": "/Delici_restaurant_web_FE/static/js/runtime-main.9c8dbd28.js.map",
+    "static/css/2.5711c12b.chunk.css": "/Delici_restaurant_web_FE/static/css/2.5711c12b.chunk.css",
+    "static/js/2.dc9a7242.chunk.js": "/Delici_restaurant_web_FE/static/js/2.dc9a7242.chunk.js",
+    "static/js/2.dc9a7242.chunk.js.map": "/Delici_restaurant_web_FE/static/js/2.dc9a7242.chunk.js.map",
+    "index.html": "/Delici_restaurant_web_FE/index.html",
+    "precache-manifest.01ea510c9e6c88d5a19f71e74d3cca0e.js": "/Delici_restaurant_web_FE/precache-manifest.01ea510c9e6c88d5a19f71e74d3cca0e.js",
+    "service-worker.js": "/Delici_restaurant_web_FE/service-worker.js",
+    "static/css/2.5711c12b.chunk.css.map": "/Delici_restaurant_web_FE/static/css/2.5711c12b.chunk.css.map",
+    "static/css/main.fd371dff.chunk.css.map": "/Delici_restaurant_web_FE/static/css/main.fd371dff.chunk.css.map",
+    "static/js/2.dc9a7242.chunk.js.LICENSE.txt": "/Delici_restaurant_web_FE/static/js/2.dc9a7242.chunk.js.LICENSE.txt",
+    "static/js/main.1443d799.chunk.js.LICENSE.txt": "/Delici_restaurant_web_FE/static/js/main.1443d799.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c8dbd28.js",
+    "static/css/2.5711c12b.chunk.css",
+    "static/js/2.dc9a7242.chunk.js",
+    "static/css/main.fd371dff.chunk.css",
+    "static/js/main.1443d799.chunk.js"
+  ]
+}
